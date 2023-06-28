@@ -1,0 +1,152 @@
+/******headers******/
+.seccion-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+header {
+  background-image: url("../img/doctorStrange.jpeg");
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  width: 100%;
+}
+header li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+/*********Form*************/
+.seccion-formulario{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+  }
+
+
+/********Modificadores*********************/
+nav {
+  margin-left: auto;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+nav li {
+  margin-left: 10px;
+}
+nav li a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+}
+/***************Footer********************/
+footer {
+    background-color: black;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .footerIzq ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .footerIzq ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  .footerIzq ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .footerDer p {
+    margin: 0;
+    text-align: right;
+    color: #999;
+  }
+/******Botones Y Tabla**********/
+table {
+    width: 80%;
+    border-collapse: collapse;
+  }
+  th,td {
+    border: 1px solid black;
+    padding: 5px 10px;
+  }
+  
+ 
+  .eliminarCancelar {
+    
+    display: none;
+  }
+  .guardar {
+    width: 150px;  
+    height: 50px;
+    background-size: contain;
+    padding-left: 20px;
+    background-image: url("../img/disquete.png");
+    background-repeat: no-repeat;
+    padding-left: 20px;
+    background-color: green;
+    color: white;
+  }
+  
+  .eliminarCancelarVisible {
+    display: inline-block;
+    color: white;
+  }
+  #eliminar{
+    width: 150px;  
+    height: 50px;
+    display: inline-block;
+    background-color: blue;
+    color: white;
+  }
+  #cancelar{
+    width: 150px;  
+    height: 50px;
+    display: inline-block;
+    background-color: orangered;
+    color: white;
+  }  
+/********Body**************/
+
+body {
+    background-image: url("../img/ironman.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: white;
+  }
+
+/*****ICONO*****/
+.icono img {
+  width: 100px;
+  height: auto;
+}
+div img{
+    width: 50px;
+    height: auto;
+}
+/********/
+.cabecera{
+    background-color: blue;
+}
+.fieldset {
+    border-radius: 10px;
+    width: 500px;
+    background-color:brown;
+}
+

@@ -1,0 +1,71 @@
+.seccion-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+header {
+  background-image: url("../img/doctorStrange.jpeg");
+  
+}
+
+/****ICONO****/
+.icono img {
+    width: 100px;
+    height: auto;
+  }
+  div img{
+      width: 50px;
+      height: auto;
+  }
+  /**************card***************/
+  .card-img-top {
+    width: 150px;  
+    height: 50px;
+    background-size: contain;  
+    background-image: url("../img/marvel.png");
+    background-repeat: no-repeat;
+  }
+  .card-body{
+    background-image: url("../img/CPA.gif");
+    border-radius: 5%;
+  }
+  .card-title {
+    font-size: 1.5rem;
+    border-style:double;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    color: rgb(164, 155, 207);
+  }
+  
+  .card-subtitle {
+    font-size: 1rem;
+    color: #bb2727;
+  }
+  
+  .card-text {
+    border-style:inset;
+    color:black;
+  }
+
+  
+/*****************Body**************/
+
+body {
+  background-image: url("../img/ironman.png");
+  background-size: contain;
+  background-repeat: repeat;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  color: black;
+}
+
+/*****Loader*****/
+#loader-section{
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+}
+.oculto{
+  display: none;
+}

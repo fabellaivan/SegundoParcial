@@ -1,0 +1,212 @@
+{
+  "superHeroe": [
+    {
+      "id": 1,
+      "Alias": "Iron Man2",
+      "Editorial": "Marvel",
+      "Nombre": "Tony Stark",
+      "Fuerza": 95,
+      "Arma": "armadura"
+    },
+    {
+      "id": 2,
+      "Alias": "SpiderMan",
+      "Editorial": "Marvel",
+      "Nombre": "Peter Parker",
+      "Fuerza": 80,
+      "Arma": "telarañas"
+    },
+    {
+      "id": 3,
+      "Alias": "Captain America",
+      "Editorial": "Marvel",
+      "Nombre": "Steve Rogers",
+      "Fuerza": 90,
+      "Arma": "escudo"
+    },
+    {
+      "id": 5,
+      "Alias": "Hulk2",
+      "Editorial": "Marvel",
+      "Nombre": "Bruce Banner",
+      "Fuerza": 99,
+      "Arma": "fuerza sobrehumana"
+    },
+    {
+      "id": 6,
+      "Alias": "Black Widow",
+      "Editorial": "Marvel",
+      "Nombre": "Natasha Romanoff",
+      "Fuerza": 70,
+      "Arma": "artes marciales"
+    },
+    {
+      "id": 7,
+      "Alias": "Wolverine",
+      "Editorial": "Marvel",
+      "Nombre": "Logan",
+      "Fuerza": 85,
+      "Arma": "garras de adamantium"
+    },
+    {
+      "id": 9,
+      "Alias": "Superman2",
+      "Editorial": "DC",
+      "Nombre": "Clark Kent",
+      "Fuerza": 100,
+      "Arma": "fuerza sobrehumana"
+    },
+    {
+      "id": 10,
+      "Alias": "Batman2",
+      "Editorial": "DC",
+      "Nombre": "Bruce Wayne",
+      "Fuerza": 70,
+      "Arma": ""
+    },
+    {
+      "id": 11,
+      "Alias": "Wonder Woman",
+      "Editorial": "DC",
+      "Nombre": "Diana Prince",
+      "Fuerza": 90,
+      "Arma": "lazo de la verdad y habilidades divinas"
+    },
+    {
+      "id": 13,
+      "Alias": "Green Lantern",
+      "Editorial": "DC",
+      "Nombre": "Hal Jordan",
+      "Fuerza": 75,
+      "Arma": "anillo de poder"
+    },
+    {
+      "id": 15,
+      "Alias": "Green Arrow",
+      "Editorial": "DC",
+      "Nombre": "Oliver Queen",
+      "Fuerza": 70,
+      "Arma": "arco y flechas"
+    },
+    {
+      "id": 16,
+      "Alias": "Black Canary",
+      "Editorial": "DC",
+      "Nombre": "Dinah Lance",
+      "Fuerza": 75,
+      "Arma": "grito sónico"
+    },
+    {
+      "id": 17,
+      "Alias": "Shazam",
+      "Editorial": "DC",
+      "Nombre": "Billy Batson",
+      "Fuerza": 90,
+      "Arma": "poderes mágicos"
+    },
+    {
+      "id": 18,
+      "Alias": "Cyborg",
+      "Editorial": "DC",
+      "Nombre": "Victor Stone",
+      "Fuerza": 80,
+      "Arma": "habilidades tecnológicas"
+    },
+    {
+      "id": 19,
+      "Alias": "Catwoman",
+      "Editorial": "DC",
+      "Nombre": "Selina Kyle",
+      "Fuerza": 70,
+      "Arma": "agilidad y habilidades de ladrona"
+    },
+    {
+      "id": 20,
+      "Alias": "Hawkeye",
+      "Editorial": "Marvel",
+      "Nombre": "Clinton Barton",
+      "Fuerza": 75,
+      "Arma": "arco y flechas"
+    },
+    {
+      "id": 21,
+      "Alias": "Doctor Strange",
+      "Editorial": "Marvel",
+      "Nombre": "Stephen Strange",
+      "Fuerza": 85,
+      "Arma": "magia"
+    },
+    {
+      "id": 22,
+      "Alias": "Black Panther",
+      "Editorial": "Marvel",
+      "Nombre": "T'Challa",
+      "Fuerza": 80,
+      "Arma": "traje de vibranium"
+    },
+    {
+      "id": 23,
+      "Alias": "Captain Marvel",
+      "Editorial": "Marvel",
+      "Nombre": "Carol Danvers",
+      "Fuerza": 90,
+      "Arma": "poderes cósmicos"
+    },
+    {
+      "id": 24,
+      "Alias": "Ant-Man",
+      "Editorial": "Marvel",
+      "Nombre": "Scott Lang",
+      "Fuerza": 75,
+      "Arma": "traje de reducción y crecimiento"
+    },
+    {
+      "id": 25,
+      "Alias": "Vision",
+      "Editorial": "Marvel",
+      "Nombre": "Vision",
+      "Fuerza": 80,
+      "Arma": "intangibilidad y rayos de energía"
+    },
+    {
+      "id": 1687119382231,
+      "Alias": "Malisimo",
+      "Editorial": "DC",
+      "Nombre": "aquaman",
+      "Fuerza": 20,
+      "Arma": "tridente"
+    },
+    {
+      "id": 1687875319333,
+      "Alias": "aaaaaaaaaaa",
+      "Editorial": "Marvel",
+      "Nombre": "aaaaaaa",
+      "Fuerza": 50,
+      "Arma": "poderes mágicos"
+    },
+    {
+      "id": 1687884226910,
+      "Alias": "Fabella",
+      "Editorial": "Marvel",
+      "Nombre": "Ivan",
+      "Fuerza": 76,
+      "Arma": "tridente"
+    },
+    {
+      "id": 1687886345854,
+      "Alias": "ivano",
+      "Editorial": "Marvel",
+      "Nombre": "ivano",
+      "Fuerza": 80,
+      "Arma": "Armas"
+    },
+    {
+      "id": 1687886564981,
+      "Alias": "sasrasa",
+      "Editorial": "Marvel",
+      "Nombre": "sarasa",
+      "Fuerza": 70,
+      "Arma": "super velocidad"
+    }
+  ]
+}
